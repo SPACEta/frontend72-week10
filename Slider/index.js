@@ -1,7 +1,7 @@
+//Получить элемент
 const img = document.getElementById('img');
 
-console.log(img)
-
+//Создаем функцию
 const left = () => {
 	img.style.backgroundImage = 'url("assets/images/Rectangle2.png")'
 }
